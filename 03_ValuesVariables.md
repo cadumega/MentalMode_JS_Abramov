@@ -29,13 +29,11 @@ In my JavaScript universe, all primitive values exist in the outer circle furthe
 
 ---
 
-
 ---
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7751c52a-32d2-4aa1-bd22-3acee582be06/Untitled.png)
 
 # A Contradiction?
-
 ---
 
 I have just demonstrated that primitive values are read-only — or, in the parlance of our times, immutable. Here’s a snippet to test your mental model.
