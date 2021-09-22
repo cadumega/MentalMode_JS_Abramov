@@ -48,3 +48,11 @@ it = them
 let pets = ['Tom', 'Kerry'];
 // feed(pets);
 console.log(pets[0]);
+
+
+// let sherlock = { surname: 'Holmes', age: 64 };
+// let propertyName = prompt('What do you want to know?');
+// alert(sherlock[propertyName]);
+
+let obj = {};
+console.log(obj.__proto__); // Play with it!
